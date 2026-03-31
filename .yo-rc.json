@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.13.0",
+    "libraryName": "spfx-folder-organizer-js",
+    "libraryId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-folder-organizer-js",
+    "solutionShortDescription": "Organize SharePoint list items into folder hierarchies",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
