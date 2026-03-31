@@ -69,7 +69,7 @@ spfx-folder-organizer-js/
 
 - **Node.js** 14+ (tested on Node 14, 16, 18, 22)
 - **npm** 6+
-- Access to npm registry (public or corporate Artifactory)
+- Access to npm registry (public or corporate)
 
 ### Quick Start
 
