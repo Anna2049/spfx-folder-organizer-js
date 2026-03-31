@@ -1,0 +1,8 @@
+@'
+{
+  "name": "@microsoft/rush-stack-compiler-3.3",
+  "version": "0.3.5",
+  "description": "Shim package",
+  "main": "lib/index.js"
+}
+'@ | Set-Content node_modules\@microsoft\rush-stack-compiler-3.3\package.json
